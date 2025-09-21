@@ -1,15 +1,13 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+  --background: #F8F3ED;   /* Ivory */
+  --foreground: #3A5A5B;   /* Sage Green */
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --primary: #3A5A5B;      /* Sage Green */
+  --secondary: #A38F84;    /* Taupe */
+  --accent: #D4B483;       /* Gold */
+  --muted: #EAE6E1;        /* lighter ivory variant */
 }
 
 html,
@@ -33,12 +31,6 @@ body {
 }
 
 a {
-  color: inherit;
+  color: var(--primary);
   text-decoration: none;
-}
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
 }
