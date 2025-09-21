@@ -664,7 +664,7 @@ export default function HomePage() {
   return (
     <div className="font-sans bg-ivory text-sage-green">
       <Header />
-      <main className="container mx-auto px-6">
+      <div className="container mx-auto px-6">
         <HomeSection />
         <BestsellersSection />
         <PromoBannersSection />
@@ -672,7 +672,7 @@ export default function HomePage() {
         <ShopSection />
         <BlogSection />
         <ContactSection />
-      </main>
+      </div>
       <Footer />
     </div>
   );
