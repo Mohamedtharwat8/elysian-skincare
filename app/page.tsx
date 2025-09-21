@@ -56,7 +56,7 @@ const products = [
     price: 45.0,
     category: "serum",
     imageUrl:
-      "https://images.unsplash.com/photo-1629198735660-e39ea93f5a4a?q=80&w=1964&auto=format&fit=crop",
+      "https://tse2.mm.bing.net/th/id/OIP.r1bN6gVeNYGBA7W2OX-ViAHaLF?pid=ImgDet&w=474&h=709&rs=1&o=7&rm=3",
   },
   {
     id: 2,
@@ -64,7 +64,7 @@ const products = [
     price: 28.0,
     category: "cleanser",
     imageUrl:
-      "https://images.unsplash.com/photo-1625708458529-6e67653c4ee2?q=80&w=1935&auto=format&fit=crop",
+      "https://tse2.mm.bing.net/th/id/OIP.r1bN6gVeNYGBA7W2OX-ViAHaLF?pid=ImgDet&w=474&h=709&rs=1&o=7&rm=3",
   },
   {
     id: 3,
@@ -72,7 +72,7 @@ const products = [
     price: 38.0,
     category: "moisturizer",
     imageUrl:
-      "https://images.unsplash.com/photo-1620916566398-39f168a2b53b?q=80&w=1964&auto=format&fit=crop",
+      "https://tse2.mm.bing.net/th/id/OIP.r1bN6gVeNYGBA7W2OX-ViAHaLF?pid=ImgDet&w=474&h=709&rs=1&o=7&rm=3",
   },
   {
     id: 4,
@@ -80,7 +80,7 @@ const products = [
     price: 35.0,
     category: "moisturizer",
     imageUrl:
-      "https://images.unsplash.com/photo-1600854746242-b85c18a4a58c?q=80&w=1964&auto=format&fit=crop",
+      "https://tse2.mm.bing.net/th/id/OIP.r1bN6gVeNYGBA7W2OX-ViAHaLF?pid=ImgDet&w=474&h=709&rs=1&o=7&rm=3",
   },
   {
     id: 5,
@@ -88,7 +88,7 @@ const products = [
     price: 52.0,
     category: "serum",
     imageUrl:
-      "https://images.unsplash.com/photo-1605259416598-14a57ac8026b?q=80&w=1965&auto=format&fit=crop",
+      "https://tse2.mm.bing.net/th/id/OIP.r1bN6gVeNYGBA7W2OX-ViAHaLF?pid=ImgDet&w=474&h=709&rs=1&o=7&rm=3",
   },
   {
     id: 6,
@@ -96,7 +96,7 @@ const products = [
     price: 48.0,
     category: "moisturizer",
     imageUrl:
-      "https://images.unsplash.com/photo-1620916566398-39f168a2b53b?q=80&w=1964&auto=format&fit=crop",
+      "https://tse2.mm.bing.net/th/id/OIP.r1bN6gVeNYGBA7W2OX-ViAHaLF?pid=ImgDet&w=474&h=709&rs=1&o=7&rm=3",
   },
   {
     id: 7,
@@ -104,7 +104,7 @@ const products = [
     price: 32.0,
     category: "cleanser",
     imageUrl:
-      "https://images.unsplash.com/photo-1628090798311-63954a706132?q=80&w=1964&auto=format&fit=crop",
+      "https://tse2.mm.bing.net/th/id/OIP.r1bN6gVeNYGBA7W2OX-ViAHaLF?pid=ImgDet&w=474&h=709&rs=1&o=7&rm=3",
   },
 ];
 
@@ -118,7 +118,7 @@ const blogPosts = [
     excerpt:
       "Start your day right with these essential steps to protect and nourish your skin from dawn till dusk.",
     imageUrl:
-      "https://images.unsplash.com/photo-1556228724-4da56e9c18a2?q=80&w=1935&auto=format&fit=crop",
+      "https://tse2.mm.bing.net/th/id/OIP.r1bN6gVeNYGBA7W2OX-ViAHaLF?pid=ImgDet&w=474&h=709&rs=1&o=7&rm=3",
   },
   {
     id: 2,
@@ -136,7 +136,7 @@ const blogPosts = [
     excerpt:
       "True radiance comes from within. Explore the best foods for healthy, glowing skin.",
     imageUrl:
-      "https://images.unsplash.com/photo-1540420773420-2850a43d24a5?q=80&w=1964&auto=format&fit=crop",
+      "https://tse2.mm.bing.net/th/id/OIP.r1bN6gVeNYGBA7W2OX-ViAHaLF?pid=ImgDet&w=474&h=709&rs=1&o=7&rm=3",
   },
 ];
 
@@ -148,7 +148,7 @@ const heroSlides = [
     buttonText: "Shop Now",
     buttonLink: "#shop",
     imageUrl:
-      "https://images.unsplash.com/photo-1590439471364-192aa70c0b23?q=80&w=1974&auto=format&fit=crop",
+      "https://tse2.mm.bing.net/th/id/OIP.r1bN6gVeNYGBA7W2OX-ViAHaLF?pid=ImgDet&w=474&h=709&rs=1&o=7&rm=3",
   },
   {
     title: "The Essence of Purity",
@@ -157,7 +157,7 @@ const heroSlides = [
     buttonText: "Our Philosophy",
     buttonLink: "#about",
     imageUrl:
-      "https://images.unsplash.com/photo-1556228720-195a672e8a03?q=80&w=1935&auto=format&fit=crop",
+      "https://tse2.mm.bing.net/th/id/OIP.r1bN6gVeNYGBA7W2OX-ViAHaLF?pid=ImgDet&w=474&h=709&rs=1&o=7&rm=3",
   },
 ];
 
@@ -364,7 +364,7 @@ const PromoBannersSection = () => (
     <div className="container mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-8">
       <div className="relative rounded-lg overflow-hidden h-80 flex items-center justify-center text-center p-8">
         <img
-          src="https://images.unsplash.com/photo-1596791882614-b4a53072236a?q=80&w=2070&auto=format&fit=crop"
+          src="https://tse3.mm.bing.net/th/id/OIP.eEvh0SxZcI2QAg1GDr9MZgHaE7?pid=ImgDet&w=184&h=122&c=7&dpr=1.3&o=7&rm=3"
           alt="Natural Ingredients"
           className="absolute inset-0 w-full h-full object-cover z-0"
         />
@@ -384,7 +384,7 @@ const PromoBannersSection = () => (
       </div>
       <div className="relative rounded-lg overflow-hidden h-80 flex items-center justify-center text-center p-8">
         <img
-          src="https://images.unsplash.com/photo-1596791882614-b4a53072236a?q=80&w=2070&auto=format&fit=crop"
+          src="https://tse3.mm.bing.net/th/id/OIP.eEvh0SxZcI2QAg1GDr9MZgHaE7?pid=ImgDet&w=184&h=122&c=7&dpr=1.3&o=7&rm=3"
           alt="Summer Glow Kit"
           className="absolute inset-0 w-full h-full object-cover z-0"
         />
@@ -434,7 +434,7 @@ const AboutSection = () => (
       </div>
       <div className="order-1 md:order-2 relative w-full h-[600px] rounded-lg shadow-lg overflow-hidden">
         <img
-          src="https://images.unsplash.com/photo-1598454226955-520e7e1e1a53?q=80&w=1964&auto=format&fit=crop"
+          src="https://tse3.mm.bing.net/th/id/OIP.eEvh0SxZcI2QAg1GDr9MZgHaE7?pid=ImgDet&w=184&h=122&c=7&dpr=1.3&o=7&rm=3"
           alt="Natural ingredients in a bowl"
           className="w-full h-full object-cover"
         />
