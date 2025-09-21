@@ -1,6 +1,5 @@
-"use client"
+"use client";
 
-import React from "react"
 import { useState, useEffect, useRef } from "react";
 import type { Metadata } from "next";
 import {
@@ -365,7 +364,7 @@ const PromoBannersSection = () => (
     <div className="container mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-8">
       <div className="relative rounded-lg overflow-hidden h-80 flex items-center justify-center text-center p-8">
         <img
-          src="https://www.bing.com/th/id/OIP.cd-n86PpinITTw54IPD3rQHaD4?w=219&h=211&c=8&rs=1&qlt=90&o=6&cb=thwsc5&dpr=1.3&pid=3.1&rm=2"
+          src="https://images.unsplash.com/photo-1596791882614-b4a53072236a?q=80&w=2070&auto=format&fit=crop"
           alt="Natural Ingredients"
           className="absolute inset-0 w-full h-full object-cover z-0"
         />
