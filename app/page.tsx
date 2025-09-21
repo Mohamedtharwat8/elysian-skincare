@@ -384,7 +384,7 @@ const PromoBannersSection = () => (
       </div>
       <div className="relative rounded-lg overflow-hidden h-80 flex items-center justify-center text-center p-8">
         <img
-          src="https://images.unsplash.com/photo-1522202685239-4458d511112b?q=80&w=1964&auto=format&fit=crop"
+          src="https://images.unsplash.com/photo-1596791882614-b4a53072236a?q=80&w=2070&auto=format&fit=crop"
           alt="Summer Glow Kit"
           className="absolute inset-0 w-full h-full object-cover z-0"
         />
@@ -664,7 +664,7 @@ export default function HomePage() {
   return (
     <div className="font-sans bg-ivory text-sage-green">
       <Header />
-      <main>
+      <main className="container mx-auto px-6">
         <HomeSection />
         <BestsellersSection />
         <PromoBannersSection />
