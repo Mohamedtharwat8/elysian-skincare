@@ -662,9 +662,9 @@ export default function HomePage() {
   useGoogleFonts();
 
   return (
-    <div className="font-sans bg-ivory text-sage-green">
+    <div className="font-sans bg-ivory text-sage-green w-screen">
       <Header />
-      <div className="container mx-auto px-6">
+      <div className="flex justify-center mx-auto px-6 ">
         <HomeSection />
         <BestsellersSection />
         <PromoBannersSection />
